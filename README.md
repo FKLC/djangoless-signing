@@ -1,7 +1,7 @@
 # Djangoless Signing
 Same Django signing API but without Django
 
-## Why Djangoless, why you can call it something else?
+## Why Djangoless, while you can call it something else?
 Because I only removed the `django.conf.settings` part and made really small changes on it, I don't think I should call it as my project. So instead of renaming it to something like 'HMAC/SHA1 Signer' I think it is much more ethic to keep using this name
 
 ## I did nothing
